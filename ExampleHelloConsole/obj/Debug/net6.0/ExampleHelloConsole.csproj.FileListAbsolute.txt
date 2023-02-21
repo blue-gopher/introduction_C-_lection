@@ -1,0 +1,15 @@
+X:\GB learning\intC#lection1\ExampleHelloConsole\bin\Debug\net6.0\ExampleHelloConsole.exe
+X:\GB learning\intC#lection1\ExampleHelloConsole\bin\Debug\net6.0\ExampleHelloConsole.deps.json
+X:\GB learning\intC#lection1\ExampleHelloConsole\bin\Debug\net6.0\ExampleHelloConsole.runtimeconfig.json
+X:\GB learning\intC#lection1\ExampleHelloConsole\bin\Debug\net6.0\ExampleHelloConsole.dll
+X:\GB learning\intC#lection1\ExampleHelloConsole\bin\Debug\net6.0\ExampleHelloConsole.pdb
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.csproj.AssemblyReference.cache
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.AssemblyInfoInputs.cache
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.AssemblyInfo.cs
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.csproj.CoreCompileInputs.cache
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.dll
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\refint\ExampleHelloConsole.dll
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.pdb
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ExampleHelloConsole.genruntimeconfig.cache
+X:\GB learning\intC#lection1\ExampleHelloConsole\obj\Debug\net6.0\ref\ExampleHelloConsole.dll
