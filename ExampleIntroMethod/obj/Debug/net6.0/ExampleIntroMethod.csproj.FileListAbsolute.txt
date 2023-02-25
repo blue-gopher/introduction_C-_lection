@@ -1,0 +1,15 @@
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.csproj.AssemblyReference.cache
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.AssemblyInfoInputs.cache
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.AssemblyInfo.cs
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.csproj.CoreCompileInputs.cache
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\bin\Debug\net6.0\ExampleIntroMethod.exe
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\bin\Debug\net6.0\ExampleIntroMethod.deps.json
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\bin\Debug\net6.0\ExampleIntroMethod.runtimeconfig.json
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\bin\Debug\net6.0\ExampleIntroMethod.dll
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\bin\Debug\net6.0\ExampleIntroMethod.pdb
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.dll
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\refint\ExampleIntroMethod.dll
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.pdb
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ExampleIntroMethod.genruntimeconfig.cache
+X:\Learning\GB learning\introduction_C-_lection\ExampleIntroMethod\obj\Debug\net6.0\ref\ExampleIntroMethod.dll
